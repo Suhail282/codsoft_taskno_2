@@ -12,4 +12,13 @@ How to Run
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
-2.created tic tac toe ai 
+2. Run th egame 
+   python tic_tac_toe_ai.py
+4. How to play 
+   1 | 2 | 3
+  ---|---|---
+   4 | 5 | 6
+  ---|---|---
+   7 | 8 | 9
+
+5.created tic tac toe ai 
