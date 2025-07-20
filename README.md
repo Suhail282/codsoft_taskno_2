@@ -12,3 +12,4 @@ How to Run
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
+2.created tic tac toe ai 
